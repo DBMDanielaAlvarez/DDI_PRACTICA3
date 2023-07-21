@@ -8,7 +8,7 @@
 
 ## Ingeniería en Desarrollo y Gestión de Software
 
-### Desarrollo de Dispositivos Inteligentes
+## Desarrollo para Dispositivos Inteligentes
 
 ## Daniela Álvarez Ramírez
  
