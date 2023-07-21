@@ -21,9 +21,9 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Tarea7 Hora y dia |
-| Descripción  | La aplicación "Hora y Día" aprovecha las capacidades de actualización en tiempo real de Wear OS para hora y dia.  |
-|  Fecha de Carga | 13/06/23  |
+| Nombre  |  Practica 3. Hola Mundo Wearable |
+| Descripción  | Creación de aplicación con primer mensaje de hola mundo para wearables de pantallas cuadradas y redondas, imprimiendo un mensaje de "Hello World" |
+|  Fecha de Carga (Mes y Año)| 07/23  |
 
 &nbsp;
 &nbsp;
